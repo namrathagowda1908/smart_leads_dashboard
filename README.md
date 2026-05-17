@@ -21,6 +21,7 @@ npm run dev
 
 ## Notes
 
-- Backend runs on http://localhost:5000
-- Frontend runs on http://localhost:5173
+- Backend runs on https://smart-leads-dashboard-s4gw.onrender.com
+- Frontend runs on https://smart-leads-dashboard-livid.vercel.app
 - API base URL is configured in rontend/.env.example
+  
