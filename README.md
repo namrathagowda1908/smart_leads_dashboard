@@ -98,6 +98,8 @@ The local Docker setup maps:
 ## Deployment Notes
 
 - Backend API base path: `/api/v1`
+- Backend deployment URL: `https://smart-leads-dashboard-s4gw.onrender.com`
+- Frontend deployment URL: `https://smart-leads-dashboard-livid.vercel.app`
 - Frontend API base URL is configured in `frontend/.env.example`
 
 ## Helpful Commands
