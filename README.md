@@ -61,8 +61,7 @@ npm run seed
 
 Default seeded accounts:
 
-- `admin@smartleads.local` / `Admin1234!`
-- `sales@smartleads.local` / `Sales1234!`
+-'namrathagowda1908@gmail.com'-namratha@432
 
 ## API Endpoints
 
